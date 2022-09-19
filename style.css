@@ -116,7 +116,7 @@ margin-top: 0px;
 .project-tile {
   color: #000;
   margin: 20px;
-  max-width: 300px;
+  max-width: 250px;
   transition: transform 0.3s ease;
 }
 
@@ -151,7 +151,7 @@ section h3 {
 .certs-tile {
   color: #000;
   margin: 20px;
-  max-width: 300px;
+  max-width: 250px;
   transition: transform 0.3s ease;
 }
 
